@@ -49,4 +49,4 @@ Each design pattern example includes a `Main` class that demonstrates how to use
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+[MIT License](LICENSE).
